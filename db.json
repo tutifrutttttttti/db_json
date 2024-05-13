@@ -1,0 +1,28 @@
+{"services":[
+  {
+    "image":"https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Software Development",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image":"https://images.pexels.com/photos/7504859/pexels-photo-7504859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Cloud Services",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image":"https://images.pexels.com/photos/5926382/pexels-photo-5926382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Cybersecurity Solutions",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image":"https://images.pexels.com/photos/907487/pexels-photo-907487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Web Development",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image":"https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title":"Data Analytics",
+    "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  }
+]
+}
